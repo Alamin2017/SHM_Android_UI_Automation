@@ -1,0 +1,41 @@
+CSC and MCC Click is Done 
+SHM Title assert is Done
+SHM Text assert is Done
+SHM Icon is Visible
+gSHM TC_PP Text:By accepting, you agree to the Samsung Health Monitor Terms of Use and Privacy Policy.
+TC PP assert is done
+Accept button Visibility:true
+Accept button is Visible
+%Samsung Health Title assert is Done
+logo_SHM_visibility is Done
+#logo_direction_visibility is Done
+logo_SH_visibility is Done
+SH Data text Assert is done
+ All Permissions assert is Done
+Switch Button is Clickable
+"Allowed title visibility is Done
+"Switch button visibility is Done
+Scrolling down is Done
+$Create your profile assert is done
+Fast and Last Name is Done
+#Month date Year Selection is Done
+Gender Selection is Done
+"Setup lock screen button clicked
+PIN field clicked
+Send keys for PIN 
+PIN Radion button clicked
+Continue ok button clicked
+Send keys for PIN 
+Continue Ok button is Done
+Done button is clicked 
+Agree Button is Clicked 
+'Assert of Logo Samsung Health Monitor
+verify_title_No_compatible_wf
+%verify_description_No_compatible_wf
+click_MoreOptions
+How to use Exist:true
+Label Exist:true
+Settings Exist:true
+Contact us Exist:true
+Verify MoreOptions
+Back button is working.

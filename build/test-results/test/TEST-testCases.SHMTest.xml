@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testCases.SHMTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2023-02-08T09:01:47" hostname="AMIN-AL01" time="96.528">
+  <properties/>
+  <testcase name="test_CSC_MCC_Clickable" classname="testCases.SHMTest" time="5.069"/>
+  <testcase name="test_Welcome_to_SHM" classname="testCases.SHMTest" time="3.5"/>
+  <testcase name="test_Samsung_Health" classname="testCases.SHMTest" time="12.825"/>
+  <testcase name="test_Create_Profile" classname="testCases.SHMTest" time="15.679"/>
+  <testcase name="test_Lockscreen_OpenApp" classname="testCases.SHMTest" time="30.564"/>
+  <testcase name="test_HomePage_without_watch_connected" classname="testCases.SHMTest" time="8.792"/>
+  <testcase name="test_How_to_use_page" classname="testCases.SHMTest" time="20.09"/>
+  <system-out><![CDATA[CSC and MCC Click is Done 
+SHM Title assert is Done
+SHM Text assert is Done
+SHM Icon is Visible
+SHM TC_PP Text:By accepting, you agree to the Samsung Health Monitor Terms of Use and Privacy Policy.
+TC PP assert is done
+Accept button Visibility:true
+Accept button is Visible
+Samsung Health Title assert is Done
+logo_SHM_visibility is Done
+logo_direction_visibility is Done
+logo_SH_visibility is Done
+SH Data text Assert is done
+All Permissions assert is Done
+Switch Button is Clickable
+Allowed title visibility is Done
+Switch button visibility is Done
+Scrolling down is Done
+Create your profile assert is done
+Fast and Last Name is Done
+Month date Year Selection is Done
+Gender Selection is Done
+Setup lock screen button clicked
+PIN field clicked
+Send keys for PIN 
+PIN Radion button clicked
+Continue ok button clicked
+Send keys for PIN 
+Continue Ok button is Done
+Done button is clicked 
+Agree Button is Clicked 
+Assert of Logo Samsung Health Monitor
+verify_title_No_compatible_wf
+verify_description_No_compatible_wf
+click_MoreOptions
+How to use Exist:true
+Label Exist:true
+Settings Exist:true
+Contact us Exist:true
+Verify MoreOptions
+Back button is working.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
